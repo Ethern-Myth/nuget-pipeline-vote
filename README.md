@@ -23,9 +23,7 @@ Instead of guessing what developers want, we let **you decide what gets built ne
 
 Potential features:
 
-* JWT / API Key Authentication
 * Advanced Rate Limiting
-* Request Validation Middleware
 * Audit Logging
 
 ---
@@ -36,7 +34,6 @@ Potential features:
 
 Potential features:
 
-* Role-Based Authorization
 * DTO Auto-Generation
 * Advanced Filtering (OData-style)
 * Microservice Endpoint Support
